@@ -56,6 +56,7 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
     - Formate: SMD, OBJ, GRN, GR2, ASCII FBX (siehe https://darkmatters.org/forums/index.php?/topic/43222-trying-to-find-a-sacred-2-gr2-importerexporter-for-blender/#comment-7058496)
 - Coding
     - Unity-Shader in C# programmieren
+        - Vertex Shader & Pixel Shader
         - Perlin Noise
         - Lambertian Shading
         - Gouraud Shading
