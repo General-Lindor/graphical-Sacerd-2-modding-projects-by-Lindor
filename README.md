@@ -29,21 +29,21 @@ Dies dient sowohl als Dokumentation als auch als Referenz für Bewerbungen.
 ## <a name="third"></a>$${\color{teal}Ranking}$$
 Meine größten veröffentlichten Projekte graphischer Natur, auf die ich am stolzesten bin, mit Erklärung, warum ich da so stolz drauf bin, sind definitiv:
 
-1. ```Shader/Fur Shader Pack: Benötigte höhere Mathematik (Uni-Level) sowie Verständnis von der FurGLE Shells+Fins Methode```
-2. ```Shader/Tree Shader Fix: jemand, der so krass ist, dass er den puren Assembly-Code liest und verändert, sagtem dass das nicht machbar ist, und ich hab's geschafft!```
-3. ```Shader/Cosmic Wing FX: ich hab's geschafft, Vertex Shader voll zu verstehen und auszunutzen. Man kann auch damit coole Effekte machen, nicht nur mit Pixel Shadern```
-4. ```Shader/Ancient Bark FX: That's where it all started. Mein erstes Mal mit Shadern :) Ich hab bewiesen, dass ich mit Volume Maps umgehen kann und dass ich mehrere Effecte Composen kann.```
-5. ```Other/Farbraumkonvertierung: optimales Modell für RGB, HSL & HSV mit und ohne Gamma-Korrektur finden und sich nicht einfach auf Wikipedia verlassen.```
+1. Shader/Fur Shader Pack: ```Benötigte höhere Mathematik (Uni-Level) sowie Verständnis von der FurGLE Shells+Fins Methode```
+2. Shader/Tree Shader Fix: ```jemand, der so krass ist, dass er den puren Assembly-Code liest und verändert, sagtem dass das nicht machbar ist, und ich hab's geschafft!```
+3. Shader/Cosmic Wing FX: ```ich hab's geschafft, Vertex Shader voll zu verstehen und auszunutzen. Man kann auch damit coole Effekte machen, nicht nur mit Pixel Shadern```
+4. Shader/Ancient Bark FX: ```That's where it all started. Mein erstes Mal mit Shadern :) Ich hab bewiesen, dass ich mit Volume Maps umgehen kann und dass ich mehrere Effecte Composen kann.```
+5. Other/Farbraumkonvertierung: ```optimales Modell für RGB, HSL & HSV mit und ohne Gamma-Korrektur finden und sich nicht einfach auf Wikipedia verlassen.```
 
-```Auch auf die FX-Liste bin ich sehr stolz:
+Auch auf die FX-Liste bin ich sehr stolz:
 Ein massives Projekt zum Reverse-Engineering sämtlicher FX des Spieles, seien es VFX oder SFX.
 Obwohl das Projekt selbst eher graphischer Natur ist, war die Arbeit daran eher funktionaler Natur.
-DieListe ist vollständig.```
+Die Liste ist vollständig.
 
-```Auf die Blueprint.txt Function Overhaul bin ich ebenfalls extrem Stolz,
-sie ist mein bei Weitem größtes veröffentlichtes Projekt bisher, aber sie ist nicht graphischer Natur und hier deshalb garnicht gelistet.```
+Auf die Blueprint.txt Function Overhaul bin ich ebenfalls extrem Stolz,
+sie ist mein bei Weitem größtes veröffentlichtes Projekt bisher, aber sie ist nicht graphischer Natur und hier deshalb garnicht gelistet.
 
-## <a name="third"></a>$${\color{teal}Skills}$$
+## <a name="fourth"></a>$${\color{teal}Skills}$$
 
 Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
 
