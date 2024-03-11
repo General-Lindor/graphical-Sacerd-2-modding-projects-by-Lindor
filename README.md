@@ -59,7 +59,7 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
         - Perlin Noise
         - Lambertian Shading
         - Gouraud Shading
-        - Phon-Blinn Shading
+        - Phong-Blinn Shading
         - Oren-Nayar Shading
     - Lua-Programmierung allgemein
     - Python-Programmierung allgemein
