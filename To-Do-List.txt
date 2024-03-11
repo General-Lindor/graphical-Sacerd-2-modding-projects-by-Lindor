@@ -1,17 +1,20 @@
 TO-DO:
-    - Incandescent Skin
-    - Extractvalues.shader
-    - Star Wars Redguard Mask
-    - Spider Mount Models & Textures
+    - Incandescent Skin: Code
     - Galactic Wings FX
     - Sera Endijan Wings FX
     - Sera Mystique Wings FX fix
+    - Extractvalues.shader: Code
+    - Tree
 
 DONE:
+    - Incandescent Skin: Alles Andere
+    - Extractvalues.shader: README
     - Fur Shader Pack
     - FX List
     - Farbraumkonvertierung
     - Ancient Bark FX
+    - Star Wars Redguard Mask
+    - Spider Mount Models & Textures
 
 WON'T BE DONE:
     - Funktionale Projekte
