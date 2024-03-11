@@ -28,11 +28,11 @@ Dies dient sowohl als Dokumentation als auch als Referenz für Bewerbungen.
 ## <a name="third"></a>$${\color{teal}Ranking}$$
 Meine größten veröffentlichten Projekte graphischer Natur, auf die ich am stolzesten bin, mit Erklärung, warum ich da so stolz drauf bin, sind definitiv:
 
-1. Fur Shader Pack: Benötigte höhere Mathematik (Uni-Level) sowie Verständnis von der FurGLE Shells+Fins Methode
-2. Tree Shader Fix: jemand, der so krass ist, dass er den puren Assembly-Code
-3. Cosmic Wing FX: ich hab's geschafft, Vertex Shader voll zu verstehen und auszunutzen. Man kann auch damit coole Effekte machen, nicht nur mit Pixel Shadern
-4. Ancient Bark FX: That's where it all started. Mein erstes Mal mit Shadern :) Ich hab bewiesen, dass ich mit Volume Maps umgehen kann und dass ich mehrere Effecte Composen kann.
-5. Farbraumkonvertierung: optimales Modell für RGB, HSL & HSV mit und ohne Gamma-Korrektur finden
+1. ```Fur Shader Pack: Benötigte höhere Mathematik (Uni-Level) sowie Verständnis von der FurGLE Shells+Fins Methode```
+2. ```Tree Shader Fix: jemand, der so krass ist, dass er den puren Assembly-Code liest und verändert, sagtem dass das nicht machbar ist, und ich hab's geschafft!```
+3. ```Cosmic Wing FX: ich hab's geschafft, Vertex Shader voll zu verstehen und auszunutzen. Man kann auch damit coole Effekte machen, nicht nur mit Pixel Shadern```
+4. ```Ancient Bark FX: That's where it all started. Mein erstes Mal mit Shadern :) Ich hab bewiesen, dass ich mit Volume Maps umgehen kann und dass ich mehrere Effecte Composen kann.```
+5. ```Farbraumkonvertierung: optimales Modell für RGB, HSL & HSV mit und ohne Gamma-Korrektur finden und sich nicht einfach auf Wikipedia verlassen.```
 
 Auch auf die FX-Liste bin ich sehr stolz:
 Ein massives Projekt zum Reverse-Engineering sämtlicher FX des Spieles, seien es VFX oder SFX.
