@@ -63,6 +63,9 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
         - Oren-Nayar Shading
     - Lua-Programmierung allgemein
     - Python-Programmierung allgemein
+- Sound
+    - Umgang mit Audacity
+    - Formate: .ogg
 - Allgemein
     - Multidimensionale Analysis (Vektoren und Matrizen)
     - Kreativität
