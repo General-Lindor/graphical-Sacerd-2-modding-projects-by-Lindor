@@ -19,7 +19,7 @@ welche überwiegend graphischer Natur und nicht funktionaler Natur sind.
 
 Funktionale Projekte sind nicht gelistet und werden allenfalls erwähnt, z.B. in links.
 
-## <a name="second"></a>$${\color{teal}Warum? Es existiert doch bereits alles auf DarkMatters?}$$
+## <a name="second"></a>$${\color{teal}Warum? \space Es \space existiert \space doch \space bereits \space alles \space auf \space DarkMatters?}$$
 Viele meiner Projekte habe ich nicht als Entwickler, sondern als Privatperson durchgeführt.
 Die Dokumentation von Planung, Durchführung und Ergebnis meiner Projekte ist dementsprechend dürftig und "Scattered across the Forums of DarkMatters".
 In der Text-File "Links" habe ich zunächst versucht, Sämtliches, was an Dokumentation verfügbar ist, in einer File zusammenzuführen.
