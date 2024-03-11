@@ -1,0 +1,73 @@
+Threads:
+    No Code Just Preview::
+        MY MOD: https://darkmatters.org/forums/index.php?/topic/48425-lindors-mod-for-sacred-2-ee-development-thread/page/3/#comment-7138051
+
+    FX List:
+        https://darkmatters.org/forums/index.php?/topic/49710-reverse-engineering-fx/
+        https://darkmatters.org/forums/index.php?/topic/50689-complete-sacred-2-fx-list-part-i/
+        https://darkmatters.org/forums/index.php?/topic/70926-complete-sacred-2-fx-list-part-ii/
+        https://darkmatters.org/forums/index.php?/topic/70928-complete-sacred-2-fx-list-part-iii/
+        https://darkmatters.org/forums/index.php?/topic/70929-complete-sacred-2-fx-list-part-iv/
+        https://darkmatters.org/forums/index.php?/topic/72347-complete-sacred-2-fx-list-part-v/
+        https://www.sacredwiki.org/index.php/Sacred_2:FX
+
+    Tutorials:
+        Fist Mod: https://darkmatters.org/forums/index.php?/topic/71252-tutorial-how-to-recolorize-the-inquisitors-mount-astute-supremacy-shroud-spideradd-t-energy-effect-to-mount/#comment-7131956
+        DLL: https://darkmatters.org/forums/index.php?/topic/72356-s2logicdll-and-s2coredll-data-extraction/
+        Clear Shader Cache: https://darkmatters.org/forums/index.php?/topic/72259-deeply-understanding-surfacetxt-flags-shaders/#comment-7136963
+        Color Space Conversion: https://darkmatters.org/forums/index.php?/topic/72344-guide-correct-rgb-to-hsl-conversion-with-gamma-correction/
+        Testing & Visualization: https://github.com/General-Lindor/Color_space_conversion_with_gamma_correction/tree/main
+        Best Practice Model: https://github.com/General-Lindor/LibraryCollection/blob/main/Python/Color%20Space%20Conversion/color.py
+
+    Discussions:
+        3ds max: https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/&do=findComment&comment=7143612
+        https://darkmatters.org/forums/index.php?/topic/72291-the-hunt-for-fx/
+        https://darkmatters.org/forums/index.php?/topic/47583-cool-fx/
+        https://darkmatters.org/forums/index.php?/topic/72251-possible-to-recolorize-fen-fires/
+
+    Pure Code Mods (non-downloadable, just posted into discussion thread):
+        Functional:
+            https://darkmatters.org/forums/index.php?/topic/72255-sacred-2-sector-and-quadrant-coordinates/#comment-7135982
+        Graphical:
+            Ancient Bark FX: https://darkmatters.org/forums/index.php?/topic/72298-quick-question-about-ancient-bark-new-ancient-bark-shader/
+            Cosmic Wings FX & Tree Shader Fix: https://darkmatters.org/forums/index.php?/topic/72258-modding-textures-edit-and-shaders/
+
+Downloads:
+    Functional Mods:
+        link: https://darkmatters.org/forums/index.php?/files/file/804-questscriptstxt-bundle/
+
+    Graphical Mods:
+        link: https://darkmatters.org/forums/index.php?/files/file/771-lindors-model-texture-designs-for-sacred-2-ee-31/
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/772-lindors-model-texture-designs-for-cm-patch/
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/778-failed-quests-red-circle-remover-mod/
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/812-seraphim-ancient-set-wing-fx-for-mystique-set-wings/
+        development/idea: START https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/page/7/#comment-7143551
+        development/idea: END https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/page/8/#comment-7143593
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/813-seraphim-mystique-set-wing-fx-fix/
+        development/idea: START https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/&do=findComment&comment=7143574
+        development/idea: END https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/&do=findComment&comment=7143653
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/784-fur-shader-pack/
+        development/idea & discussion: https://darkmatters.org/forums/index.php?/topic/72326-fur-shader-pack/
+
+    Tools:
+        link: https://darkmatters.org/forums/index.php?/files/file/777-surfacetxt-surface_flag_doublesided-comparison-remover/
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/779-weaponpooltxt-dbid-sorting-tool/
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/814-full-itemtype-tier-distribution/
+        development/idea: https://darkmatters.org/forums/index.php?/topic/47449-various-questions-to-blueprinttxt-and-txt-file-spreadsheet-downloads/page/2/#comment-7143769
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/786-sacred-2-loka-id-reverse-engineering-tool/
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/787-sacred-2-blueprinttxt-function-overhaul/
+        discussion: https://darkmatters.org/forums/index.php?/topic/72382-sacred-2-blueprinttxt-function-overhaul/#comment-7138896
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/774-sacred-2-modding-tool-txt-comparison-extractor/
+        discussion: https://darkmatters.org/forums/index.php?/topic/72228-sacred-2-downloads-sacred-2-modding-tool-txt-comparison-extractor/#comment-7135615
+        
+        link: https://darkmatters.org/forums/index.php?/files/file/776-sacred-2-modding-tool-txt-modmerging-inserter/

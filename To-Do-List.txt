@@ -1,0 +1,17 @@
+TO-DO:
+    - Incandescent Skin
+    - Extractvalues.shader
+    - Star Wars Redguard Mask
+    - Spider Mount Models & Textures
+    - Galactic Wings FX
+    - Sera Endijan Wings FX
+    - Sera Mystique Wings FX fix
+
+DONE:
+    - Fur Shader Pack
+    - FX List
+    - Farbraumkonvertierung
+    - Ancient Bark FX
+
+WON'T BE DONE:
+    - Funktionale Projekte
