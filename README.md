@@ -70,4 +70,5 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
     - Sehr viel Geduld und Durchhaltevermögen
 
 Was ich bisher noch nicht kann, ist, mit der Unity Engine selbst umzugehen.
-Ich code nur in C# mit sämtlichen Funktionen, die Unity zur Verfügung stellt.
+Ich code nur in C# mit sämtlichen Funktionen, die Unity zur Verfügung stellt,
+da Sacred 2 eine Custom Ogre 3D Engine verwendet mit implementierter Unity-Funktionalität für Shader.
