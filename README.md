@@ -3,7 +3,7 @@
 
 ---
 
-# $${\color{blue}Inhaltsverzeichnis}$$
+# $${\color{teal}Inhaltsverzeichnis}$$
 1. [Was ist InfluxDB?](#first)
 2. [Wie speichert InfluxDB Daten?](#second)
 3. [Wie sieht es mit der Sicherheit aus?](#third)
