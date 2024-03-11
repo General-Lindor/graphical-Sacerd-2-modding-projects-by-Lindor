@@ -4,12 +4,9 @@
 ---
 
 # $${\color{teal}Inhaltsverzeichnis}$$
-1. [Was ist InfluxDB?](#first)
-2. [Wie speichert InfluxDB Daten?](#second)
-3. [Wie sieht es mit der Sicherheit aus?](#third)
-4. [Was ist Flux?](#fourth)
-5. [Typischer Aufbau einer Flux-Query](#fifth)
-6. [Wie kann man Daten schreiben und löschen?](#sixth)
+1. [Was ist das hier?](#first)
+2. [Warum?](#second)
+3. [Ranking](#third)
 
 ---
 
@@ -21,14 +18,14 @@ welche überwiegend graphischer Natur und nicht funktionaler Natur sind.
 
 Funktionale Projekte sind nicht gelistet und werden allenfalls erwähnt, z.B. in links.
 
-## <a name="first"></a>$${\color{teal}Warum?}$$
+## <a name="second"></a>$${\color{teal}Warum?}$$
 Viele meiner Projekte habe ich nicht als Entwickler, sondern als Privatperson durchgeführt.
 Die Dokumentation von Planung, Durchführung und Ergebnis meiner Projekte ist dementsprechend dürftig und "Scattered across the Forums of DarkMatters".
 In der Text-File "Links" habe ich zunächst versucht, Sämtliches, was an Dokumentation verfügbar ist, in einer File zusammenzuführen.
 Die graphischen Projekte habe ich dann gefiltert und noch einmal aufbereitet.
 Dies dient sowohl als Dokumentation als auch als Referenz für Bewerbungen.
 
-## <a name="first"></a>$${\color{teal}Ranking}$$
+## <a name="third"></a>$${\color{teal}Ranking}$$
 Meine größten veröffentlichten Projekte graphischer Natur, auf die ich am stolzesten bin, mit Erklärung, warum ich da so stolz drauf bin, sind definitiv:
 
 1. Fur Shader Pack: Benötigte höhere Mathematik (Uni-Level) sowie Verständnis von der FurGLE Shells+Fins Methode
