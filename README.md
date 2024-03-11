@@ -47,7 +47,7 @@ sie ist mein bei Weitem größtes veröffentlichtes Projekt bisher, aber sie ist
 
 Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
 
-- Texturen
+- Bildbearbeitung & Texturen
     - Umgang mit GIMP
     - Erfahrung mit folgenden Bildformaten: JPG, PNG, BMP, DDS
     - Verständnis von Farbräumen
@@ -56,7 +56,18 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
     - Formate: SMD, OBJ, GRN, GR2, ASCII FBX (siehe https://darkmatters.org/forums/index.php?/topic/43222-trying-to-find-a-sacred-2-gr2-importerexporter-for-blender/#comment-7058496)
 - Coding
     - Unity-Shader in C# programmieren
+        - Perlin Noise
+        - Lambertian Shading
+        - Gouraud Shading
+        - Phon-Blinn Shading
+        - Oren-Nayar Shading
     - Lua-Programmierung allgemein
     - Python-Programmierung allgemein
 - Allgemein
     - Multidimensionale Analysis (Vektoren und Matrizen)
+    - Kreativität
+    - keine Angst vor großen Projekten
+    - Sehr viel Geduld und Durchhaltevermögen
+
+Was ich bisher noch nicht kann, ist, mit der Unity Engine selbst umzugehen.
+Ich code nur in C# mit sämtlichen Funktionen, die Unity zur Verfügung stellt.

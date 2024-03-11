@@ -1,10 +1,8 @@
 TO-DO:
-    - Incandescent Skin: Code
-    - Galactic Wings FX
-    - Sera Endijan Wings FX
-    - Sera Mystique Wings FX fix
-    - Extractvalues.shader: Code
-    - Tree
+    - Incandescent Skin: Code (old & new)
+    - Cosmic Wings FX: Code (new)
+    - Extractvalues.shader: Code (old & new)
+    - Tree: Code (Old)
 
 DONE:
     - Incandescent Skin: Alles Andere
@@ -15,6 +13,11 @@ DONE:
     - Ancient Bark FX
     - Star Wars Redguard Mask
     - Spider Mount Models & Textures
+    - Sera Endijan Wings FX
+    - Sera Mystique Wings FX fix
+    - Cosmic Wings FX
+    - Tree
+    - compose
 
 WON'T BE DONE:
     - Funktionale Projekte
