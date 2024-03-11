@@ -5,19 +5,22 @@ TO-DO:
     - Tree: Code (Old)
 
 DONE:
-    - Incandescent Skin: Alles Andere
-    - Extractvalues.shader: README
-    - Fur Shader Pack
-    - FX List
-    - Farbraumkonvertierung
-    - Ancient Bark FX
-    - Star Wars Redguard Mask
-    - Spider Mount Models & Textures
-    - Sera Endijan Wings FX
-    - Sera Mystique Wings FX fix
-    - Cosmic Wings FX
-    - Tree
-    - compose
+    - Models:
+        - Star Wars Redguard Mask
+    - Shaders:
+        - Incandescent Skin: Alles Andere
+        - Extractvalues.shader: README
+        - Fur Shader Pack
+        - Ancient Bark FX
+        - Sera Endijan Wings FX
+        - Sera Mystique Wings FX fix
+        - Cosmic Wings FX
+        - Tree
+    - Other:
+        - FX List
+        - Farbraumkonvertierung
+        - Spider Mount Models & Textures
+        - compose
 
 WON'T BE DONE:
     - Funktionale Projekte
