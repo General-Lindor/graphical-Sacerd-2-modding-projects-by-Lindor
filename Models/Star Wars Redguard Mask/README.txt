@@ -15,3 +15,6 @@ Link: https://darkmatters.org/forums/index.php?/topic/72386-need-help-to-change-
 
 "Need Help" steht in der Topic, weil ich jemanden, der Zugang zu 3DS Max hat, darum gebeten habe, die Datei für mich zu exportieren, aber das hat nicht geklappt.
 Das Projekt wurde von mir alleine geplant und umgesetzt.
+
+Ein Vorher-/Nachher-Vergleich existiert nicht,
+da es sich hierbei um eine vollständige Neuschöpfung meinerseits handelt.

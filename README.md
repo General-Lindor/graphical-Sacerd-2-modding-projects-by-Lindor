@@ -49,7 +49,8 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
 
 - Bildbearbeitung & Texturen
     - Umgang mit GIMP
-    - Erfahrung mit folgenden Bildformaten: JPG, PNG, BMP, DDS
+    - Erfahrung mit folgenden Bildformaten: JPG, PNG, BMP, DDS, GIF
+    - Umgang mit Volume Maps
     - Verständnis von Farbräumen
 - 3D-Meshes
     - Umgang mit Blender
@@ -62,6 +63,8 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
         - Gouraud Shading
         - Phong-Blinn Shading
         - Oren-Nayar Shading
+        - Verständnis aber keine Implementierung von Fresnel
+        - Bumpmapping (Normal Mapping)
     - Lua-Programmierung allgemein
     - Python-Programmierung allgemein
 - Sound

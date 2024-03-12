@@ -14,4 +14,7 @@ Download Link:          https://darkmatters.org/forums/index.php?/files/file/812
 development/idea START: https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/page/7/#comment-7143551
 development/idea END:   https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/page/8/#comment-7143593
 
-Screenshot und Code liegen anbei.
+Screenshot, Textur und Code liegen anbei.
+
+Ein Vorher-/Nachher-Vergleich existiert nicht,
+da es sich hierbei um eine vollständige Neuschöpfung meinerseits handelt.

@@ -17,4 +17,7 @@ development/idea START: https://darkmatters.org/forums/index.php?/topic/72222-vi
 development/idea END:   https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/&do=findComment&comment=7143653
 Is this a Mod or a Fix? https://darkmatters.org/forums/index.php?/topic/72222-vishankas-mod-corner/&do=findComment&comment=7143837
 
-Screenshot und Code liegen anbei.
+Screenshot, Textur und Code liegen anbei.
+
+Ein Vorher-/Nachher-Vergleich existiert nicht,
+da es sich hierbei um eine vollständige Neuschöpfung meinerseits handelt.
