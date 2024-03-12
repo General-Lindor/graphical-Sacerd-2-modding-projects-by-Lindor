@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sortable table</title>
+        <link rel="stylesheet" type="text/css" href="table.css">
+    </head>
+    <body>
+        <script src="table.js"></script>
+        
+        <!-- Example Table Start -->
+        <table id="Table_0">
+            <!-- The table header row -->
+            <tr>
+                <th>
+                    <!-- First column header content, has to be put in a div to ensure that the filter is put below and not next to the content -->
+                    <div onclick="sortTableByColumn('Table_0', 0)">Number 1</div>
+                    <!-- First column header filter -->
+                    <input type="text" id="filter_t0_c0" onkeyup="filter('Table_0', 'filter_t0_c0', 0)" placeholder="filter">
+                 </th>
+                <th>
+                    <!-- Second column header content -->
+                    <div onclick="sortTableByColumn('Table_0', 1)">Number 2</div>
+                    <!-- Second column header filter -->
+                    <input type="text" id="filter_t0_c1" onkeyup="filter('Table_0', 'filter_t0_c1', 1)" placeholder="filter">
+                </th>
+                <th>
+                    <!-- Third column header content -->
+                    <div onclick="sortTableByColumn('Table_0', 2)">Letter</div>
+                    <!-- Third column header filter -->
+                    <input type="text" id="filter_t0_c2" onkeyup="filter('Table_0', 'filter_t0_c2', 2)" placeholder="filter">
+                </th>
+            </tr>
+            <!-- The table content rows -->
+            <tr>
+                <td>2</td>
+                <td>1</td>
+                <td>a</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>2</td>
+                <td>bra</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>1</td>
+                <td>kada</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>bra</td>
+            </tr>
+            <!-- This has to always be put at the end of a table to make sure the table starts sorted on being loaded -->
+            <script>
+                sortTable("Table_0");
+            </script>
+        </table>
+        <!-- Example Table End -->
+        
+    </body>
+</html>
