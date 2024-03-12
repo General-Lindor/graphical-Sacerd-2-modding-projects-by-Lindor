@@ -1,4 +1,4 @@
-## <a name="first"></a>$${\underline{\mathbf{\color{teal}Dokumentation \space meiner \space graphischen \space Projekte \space im \space Bereich \space Modding \space Sacred \space 2}}}$$
+## <a name="first"></a>$${\underline{\mathbf{\color{teal}Dokumentation \space meiner \space graphischen \space Sacred \space 2 \space Modding \space Projekte}}}$$
 <p>von Pascal Pahl aka Lindor</p>
 
 ---
