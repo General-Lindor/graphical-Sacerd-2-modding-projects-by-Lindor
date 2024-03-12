@@ -1,0 +1,1 @@
+"%XEDK%\bin\win32\fxc.exe" /Tvs_3_0 /EmainVS /I"include" /Cc /Fcout_vsh.txt /DXENON_IMPL=1 /DSPASS_G=1 %1
