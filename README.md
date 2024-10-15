@@ -42,6 +42,7 @@ Die Liste ist vollständig.
 
 Auf die Blueprint.txt Function Overhaul bin ich ebenfalls extrem Stolz,
 sie ist mein bei Weitem größtes veröffentlichtes Projekt bisher, aber sie ist nicht graphischer Natur und hier deshalb garnicht gelistet.
+Im Groben geht es dabei um automatische Bonusgroup-Generierung und automatisches Balancing.
 
 ## <a name="fourth"></a>$${\color{teal}Skills}$$
 
@@ -56,14 +57,14 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
     - Umgang mit Blender
     - Formate: SMD, OBJ, GRN, GR2, ASCII FBX (siehe https://darkmatters.org/forums/index.php?/topic/43222-trying-to-find-a-sacred-2-gr2-importerexporter-for-blender/#comment-7058496)
 - Coding
-    - Unity-Shader in C# programmieren
+    - Shader Programming in C für die Ogre 3D Engine
         - Vertex Shader & Pixel Shader
         - Perlin Noise
         - Lambertian Shading
         - Gouraud Shading
         - Phong-Blinn Shading
         - Oren-Nayar Shading
-        - Verständnis aber keine Implementierung von Fresnel
+        - Torrance-Sparrow Reflectance Model inklusive Fresnel
         - Bumpmapping (Normal Mapping)
     - Lua-Programmierung allgemein
     - Python-Programmierung allgemein
@@ -76,6 +77,6 @@ Die Skills, die ich durch meine Modding-Erfahrung erworben/bewiesen habe, sind:
     - keine Angst vor großen Projekten
     - Sehr viel Geduld und Durchhaltevermögen
 
-Was ich bisher noch nicht kann, ist, mit der Unity Engine selbst umzugehen.
-Ich code nur in C# mit sämtlichen Funktionen, die Unity zur Verfügung stellt,
-da Sacred 2 eine Custom Ogre 3D Engine verwendet mit implementierter Unity-Funktionalität für Shader.
+Was ich bisher noch nicht kann, ist, in Assembly zu programmieren.
+Es gibt einige Bugs und Probleme mit Sacred 2, die sich nur in den dll files fxen ließen.
+Irgendwann habe ich vor, mir das anzueignen.
